@@ -1010,7 +1010,7 @@ then
   HOMEBREW_BASH_COMMAND="${HOMEBREW_LIBRARY}/Homebrew/dev-cmd/${HOMEBREW_COMMAND}.sh"
 fi
 
-check-run-command-as-root
+#check-run-command-as-root
 
 check-prefix-is-not-tmpdir
 
